@@ -37,8 +37,8 @@ $ (venv) streamlit run agent_app.py
 
 On opening the app in localhost, upload the CSV file and start interacting with the Agent to know more about the data it holds.
 
-![Alt Text]([https://github.com/devashishk99/prompt-engg/blob/main/openai/img/prmp1.png])
+![Alt Text](https://github.com/devashishk99/prompt-engg/blob/main/openai/img/prmp1.png)
 
 In the terminal, you can observe the way the csv agent thinks behind the output.
 
-![Alt Text]([https://github.com/devashishk99/prompt-engg/blob/main/openai/img/agtchn1.png])
+![Alt Text](https://github.com/devashishk99/prompt-engg/blob/main/openai/img/agtchn1.png)
