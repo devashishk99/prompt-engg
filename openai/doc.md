@@ -9,8 +9,8 @@ This repo currently contains the starter files.
 
 Clone repo and create a virtual environment
 ```
-$ git clone https://github.com/devashishk99/unitn-chatbot.git
-$ cd unitn-chatbot
+$ git clone https://github.com/devashishk99/prompt-engg.git
+$ cd prompt-engg
 $ python3 -m venv venv
 ```
 ### Activate virtual environment
